@@ -65,7 +65,7 @@ export default function ItemDetail({ item, project, buyouts, onClose, onChanged 
     if (String(it[field] ?? "") === String(value ?? "")) return;
     setBusy(true);
     try {
-      const updated = await updateItem(field.startsWith("date_") ? it.id : it.id, { [field]: value }, it, { note: note || undefined });
+      const updated = await updateItem(it.id, { [field]: value }, it, { note: note || undefined });
       setIt(updated);
       setNote("");
       if (it.id) fetchAudit(it.id).then(setAudit);
