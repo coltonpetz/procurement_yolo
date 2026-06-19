@@ -1,0 +1,14 @@
+task_code,status_code,wbs_id,task_name,start_date,end_date
+Activity ID,Status,WBS,Activity Name,Start,Finish
+2224-3001,In Progress,2224.3.2,Structural Steel Package — Main Building,46082,46112
+2224-5001,Not Started,2224.5.1,Hydraulic Elevator Equipment — 2 Units,46280,46310
+2224-4001,Not Started,2224.4.1,HVAC Rooftop Units & Air Handling Equipment,46235,46265
+2224-4003,Not Started,2224.4.3,Main Electrical Switchgear & Distribution Panels,46223,46253
+2224-6002,Not Started,2224.6.2,Custom Interior Casework & Millwork Package,46249,46279
+2224-3005,Not Started,2224.3.5,Exterior Glazing & Curtainwall System,46266,46296
+2224-4002,Not Started,2224.4.2,Plumbing Fixtures Trim & Specialties,46327,46357
+2224-4004,Not Started,2224.4.4,Fire Sprinkler Pipe Heads & Specialties,46310,46340
+2224-3004,Not Started,2224.3.4,Custom Exterior Precast Stone — Spire & Facades,46230,46260
+2224-6003,Not Started,2224.6.3,Custom Decorative Chandeliers & Interior Light Fixtures,46295,46325
+2224-1001,Completed,2224.1.1,Site Mobilization & Temporary Facilities,45900,45930
+2224-9001,Not Started,2224.9.9,Blank-start-date material (no P6 start yet),,46400
