@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+
+# Keep .env out of source control normally; this YOLO experiment commits it
+# so the demo credentials travel with the repo. Remove this line to ignore it.
+# .env
